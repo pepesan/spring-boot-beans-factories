@@ -1,4 +1,4 @@
-package com.cursosdedesarrollo.springbootbeansfactories.beans;
+package com.cursosdedesarrollo.springbootbeansfactories.beans.inyeccion;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 

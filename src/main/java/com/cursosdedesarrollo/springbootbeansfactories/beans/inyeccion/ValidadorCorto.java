@@ -1,4 +1,4 @@
-package com.cursosdedesarrollo.springbootbeansfactories.beans;
+package com.cursosdedesarrollo.springbootbeansfactories.beans.inyeccion;
 import org.springframework.stereotype.Component;
 
 // Bean con nombre "validadorCorto"

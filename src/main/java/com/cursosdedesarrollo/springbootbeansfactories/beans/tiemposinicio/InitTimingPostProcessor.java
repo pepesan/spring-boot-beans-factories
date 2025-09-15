@@ -1,6 +1,5 @@
-package com.cursosdedesarrollo.springbootbeansfactories.beans;
+package com.cursosdedesarrollo.springbootbeansfactories.beans.tiemposinicio;
 
-import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;
 import org.springframework.stereotype.Component;
 import java.util.Map;

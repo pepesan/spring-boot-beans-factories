@@ -1,4 +1,4 @@
-package com.cursosdedesarrollo.springbootbeansfactories.beans;
+package com.cursosdedesarrollo.springbootbeansfactories.beans.inyeccion;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;

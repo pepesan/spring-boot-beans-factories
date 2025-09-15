@@ -1,4 +1,4 @@
-package com.cursosdedesarrollo.springbootbeansfactories.beans;
+package com.cursosdedesarrollo.springbootbeansfactories.beans.scopes;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
